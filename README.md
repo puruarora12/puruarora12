@@ -7,7 +7,7 @@
 [![YouTube: Puru Arora](https://img.shields.io/badge/YouTube-Puru%20Arora-red)](https://www.youtube.com/channel/UC4fll5GDEHzHLGjO1aHpXLA)
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=puruarora12&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/puruarora12/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=puruarora12&layout=compact&theme=calm)](https://github.com/puruarora12/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=puruarora12&layout=compact&theme=radical)](https://github.com/puruarora12/github-readme-stats)
 
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=puruarora12&theme=radical&hide_border=true)](https://git.io/streak-stats)
  
