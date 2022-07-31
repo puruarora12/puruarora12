@@ -4,7 +4,7 @@
 [![Linkedin: Puru Arora](https://img.shields.io/badge/-puru%20arora-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/puruarora/)](https://www.linkedin.com/in/puruarora/)
 [![Twitter: Puru Arora](https://img.shields.io/twitter/follow/shutterclosed?style=social)](https://twitter.com/shutterclosed)
 [![Youtube: Shutterclosed](https://img.shields.io/youtube/channel/subscribers/UC4fll5GDEHzHLGjO1aHpXLA?style=social)](https://www.youtube.com/channel/UCZZj-SbwHPU4aBwukW10DSg)
-[![Youtube: Puru Arora](https://img.shields.io/youtube/channel/subscribers/UC4fll5GDEHzHLGjO1aHpXLA?style=social)](https://www.youtube.com/channel/UC4fll5GDEHzHLGjO1aHpXLA)
+[![Youtube: Puru Arora](https://img.shields.io/youtube/channel/subscribe/UC4fll5GDEHzHLGjO1aHpXLA?style=social)](https://www.youtube.com/channel/UC4fll5GDEHzHLGjO1aHpXLA)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=puruarora12&layout=compact&theme=radical)](https://github.com/puruarora12/github-readme-stats)
