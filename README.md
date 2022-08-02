@@ -9,5 +9,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=puruarora12&layout=compact&theme=radical)](https://github.com/puruarora12/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=puruarora12&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=puruarora12&theme=radical&hide_border=true)](https://git.io/streak-stats )
  
