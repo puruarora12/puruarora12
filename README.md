@@ -1,9 +1,3 @@
-<style type="text/css">
-table {
-  border:none;
-}
-</style>
-
 ## Hey! I'm Puru Arora. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![GitHub puruarora12](https://img.shields.io/github/followers/puruarora12?label=follow&style=social)](https://github.com/puruarora12)
@@ -13,7 +7,7 @@ table {
 [![Youtube: Puru Arora](https://img.shields.io/youtube/channel/subscribers/UC4fll5GDEHzHLGjO1aHpXLA?style=social)](https://www.youtube.com/channel/UC4fll5GDEHzHLGjO1aHpXLA)
 
 I am a Software Engineer, Currently a Student at Simon Fraser University (Master's in Computer Science). Google Explore ML Facilitator(2019-20) Google Code'in(2019) TensorFlow Mentor
-<table>
+<table border=none>
  <tr>
   <td>
    <div>
