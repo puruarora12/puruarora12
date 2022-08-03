@@ -6,6 +6,7 @@
 [![Youtube: Shutterclosed](https://img.shields.io/youtube/channel/subscribers/UCZZj-SbwHPU4aBwukW10DSg?style=social)](https://www.youtube.com/channel/UCZZj-SbwHPU4aBwukW10DSg)
 [![Youtube: Puru Arora](https://img.shields.io/youtube/channel/subscribers/UC4fll5GDEHzHLGjO1aHpXLA?style=social)](https://www.youtube.com/channel/UC4fll5GDEHzHLGjO1aHpXLA)
 
+I am a Software Engineer, Currently a Student at Simon Fraser University (Master's in Computer Science). Google Explore ML Facilitator(2019-20) Google Code'in(2019) TensorFlow Mentor
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=puruarora12&layout=compact&theme=radical)](https://github.com/puruarora12/github-readme-stats)
 
