@@ -7,8 +7,12 @@
 [![Youtube: Puru Arora](https://img.shields.io/youtube/channel/subscribers/UC4fll5GDEHzHLGjO1aHpXLA?style=social)](https://www.youtube.com/channel/UC4fll5GDEHzHLGjO1aHpXLA)
 
 I am a Software Engineer, Currently a Student at Simon Fraser University (Master's in Computer Science). Google Explore ML Facilitator(2019-20) Google Code'in(2019) TensorFlow Mentor
-
+<table>
+ <tr>
+  <td>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=puruarora12&layout=compact&theme=radical)](https://github.com/puruarora12/github-readme-stats)
-
+  </td><td>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=puruarora12&theme=radical&hide_border=true)](https://git.io/streak-stats )
- 
+  </td>
+ </tr>
+ </table>
