@@ -7,7 +7,7 @@
 [![Youtube: Puru Arora](https://img.shields.io/youtube/channel/subscribers/UC4fll5GDEHzHLGjO1aHpXLA?style=social)](https://www.youtube.com/channel/UC4fll5GDEHzHLGjO1aHpXLA)
 
 I am a Software Engineer, Currently a Student at Simon Fraser University (Master's in Computer Science). Google Explore ML Facilitator(2019-20) Google Code'in(2019) TensorFlow Mentor
-<table border=none>
+<table border=1px>
  <tr>
   <td>
    <div>
