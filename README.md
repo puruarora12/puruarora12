@@ -1,3 +1,9 @@
+<style type="text/css">
+table {
+  border:none;
+}
+</style>
+
 ## Hey! I'm Puru Arora. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![GitHub puruarora12](https://img.shields.io/github/followers/puruarora12?label=follow&style=social)](https://github.com/puruarora12)
@@ -26,11 +32,3 @@ I am a Software Engineer, Currently a Student at Simon Fraser University (Master
  </tr>
  </table>
  
-table {
-    border: 1px solid #CCC;
-    border-collapse: collapse;
-}
-
-td {
-    border: none;
-}
