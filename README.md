@@ -11,11 +11,16 @@ I am a Software Engineer, Currently a Student at Simon Fraser University (Master
  <tr>
   <td>
    <div>
+    
+    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=puruarora12&layout=compact&theme=radical)](https://github.com/puruarora12/github-readme-stats)
+    
    </div>
   </td><td>
   <div>
+   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=puruarora12&theme=radical&hide_border=true)](https://git.io/streak-stats )
+  
   </div>
    </td>
  </tr>
