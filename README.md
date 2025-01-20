@@ -11,22 +11,11 @@ Hey, I am Puru Arora, a Software Developer with 3 Years on Industry Experience. 
 I am currently working with Deep Learning models and imgage manipulation using Machine Learning. In the past I have worked in Data Analysis, ChatBot and API development. My skill set ranges from Machine Learning, Python to Java, springboot with industry experience in both these domains.
 
 
-<table border=none>
- <tr>
-  <td>
+
    
     
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=puruarora12&layout=compact&theme=radical)](https://github.com/puruarora12/github-readme-stats)
     
    
-  </td><td>
 
-   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=puruarora12)](https://git.io/streak-stats)
-  
-  
-   </td>
- </tr>
- </table>
- 
