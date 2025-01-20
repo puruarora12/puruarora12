@@ -23,7 +23,7 @@ I am currently working with Deep Learning models and imgage manipulation using M
   </td><td>
 
    
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=puruarora12&theme=radical&hide_border=true)](https://git.io/streak-stats )
+[![GitHub Streak](https://streak-stats.demolab.com/?user=puruarora12)](https://git.io/streak-stats)
   
   
    </td>
